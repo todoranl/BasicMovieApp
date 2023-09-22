@@ -28,7 +28,7 @@ We've sprinkled some rating magic to help you find the best movies effortlessly:
 
 ## Live Demo
 
-Ready to embark on your cinematic journey? Check out our live demo [here](#).
+Ready to embark on your cinematic journey? Check out our live demo https://basic-movie-j53g53qlz-todoranl.vercel.app/
 
 ## Getting Started
 
