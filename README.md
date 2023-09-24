@@ -1,4 +1,4 @@
-# My Movie Web App 🎬
+# My Movie Web App 🎬 -> https://netflix-clone-nu-ivory.vercel.app/
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/todoranl/MovieWebApp)](https://github.com/todoranl/MovieWebApp)
 [![GitHub top language](https://img.shields.io/github/languages/top/todoranl/MovieWebApp)](https://github.com/todoranl/MovieWebApp)
